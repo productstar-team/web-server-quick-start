@@ -1,0 +1,10 @@
+[
+  {
+    "id": "jsonplaceholder-user",
+    "url": "https://jsonplaceholder.typicode.com/users/1"
+  },
+  {
+    "id": "dummyjson-product",
+    "url": "https://dummyjson.com/products/1"
+  }
+]
